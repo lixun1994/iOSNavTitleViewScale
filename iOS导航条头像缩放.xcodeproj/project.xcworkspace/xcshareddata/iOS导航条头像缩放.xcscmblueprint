@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E80B4921465A3DB7002B91C2D495D90A3B09CC48",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AAACD59E08C00652E0AB98A67C8DEF5AED5424AF" : 0,
+    "E80B4921465A3DB7002B91C2D495D90A3B09CC48" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D5210C73-745D-4A58-9A93-B5796CF0DFA5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AAACD59E08C00652E0AB98A67C8DEF5AED5424AF" : "iOSnav\/iOS%E5%AF%BC%E8%88%AA%E6%9D%A1%E5%A4%B4%E5%83%8F%E7%BC%A9%E6%94%BE\/",
+    "E80B4921465A3DB7002B91C2D495D90A3B09CC48" : "iOSnav\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS导航条头像缩放",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS导航条头像缩放.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lixun1994\/iOS-.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AAACD59E08C00652E0AB98A67C8DEF5AED5424AF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lixun1994\/iOSNavTitleViewScale.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E80B4921465A3DB7002B91C2D495D90A3B09CC48"
+    }
+  ]
+}
